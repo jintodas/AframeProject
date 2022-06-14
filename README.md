@@ -21,8 +21,6 @@ LEARNING OUTCOME
 ----------------
 Learn about how to create 3D Game with Aframe and Three.js.
 
-TECK STACK (MERN)
-
 Frontend:
 --------
 HTML, CSS, Javascript,  Aframe, Three.js
